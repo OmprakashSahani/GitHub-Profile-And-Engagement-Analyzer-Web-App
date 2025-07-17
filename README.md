@@ -178,6 +178,20 @@ Now, enter any public GitHub username (e.g., `octocat`, `torvalds`, or your own:
 ## 📸 Screenshot
 
 -----
+Here are a few screenshots showcasing the application's interface and features:
+
+### Initial Input Page
+![Initial Input Page](images/screenshot-initial-input.png)
+*This image displays the clean, coder-themed initial input form.*
+
+### Analyze Profile Page
+![Analyze Profile Page](images/screenshot-analyze-profile.png)
+*This screenshot shows the main analysis output for a user's profile.*
+
+### Repository Deep Dive
+![Repository Deep Dive](images/screenshot-repo-deep-dive.png)
+*This screenshot highlights the detailed information provided for a specific repository.*
+
 
 ## 🔮 Future Enhancements
 
