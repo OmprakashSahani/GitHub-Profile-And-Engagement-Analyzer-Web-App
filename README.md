@@ -7,6 +7,8 @@ The **GitHub Profile & Engagement Analyzer** is a powerful and interactive web a
 
 This application is built with Python (Flask) on the backend, interacting with the GitHub REST API, and a dynamic frontend utilizing HTML, CSS, and locally-served Bootstrap.
 
+**Live Demo:** [https://github-analyzer-app.el.r.appspot.com](https://github-analyzer-app.el.r.appspot.com)
+
 ---
 
 ## ✨ Features
