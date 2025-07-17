@@ -185,7 +185,10 @@ Here are a few screenshots showcasing the application's interface and features:
 *This image displays the clean, coder-themed initial input form.*
 
 ### Analyze Profile Page
-![Analyze Profile Page](https://github.com/OmprakashSahani/GitHub-Profile-And-Engagement-Analyzer-Web-App/blob/main/images/github-analyzer-demo%202.png)
+![Analyze Profile Page](https://github.com/OmprakashSahani/GitHub-Profile-And-Engagement-Analyzer-Web-App/blob/main/images/github-analyzer-demo%202.png)  
+
+![Analyze Profile Page](https://github.com/OmprakashSahani/GitHub-Profile-And-Engagement-Analyzer-Web-App/blob/main/images/github-analyzer-demo%203.png)
+
 *This screenshot shows the main analysis output for a user's profile.*
 
 ### Repository Deep Dive
