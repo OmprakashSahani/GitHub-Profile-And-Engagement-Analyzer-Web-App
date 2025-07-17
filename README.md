@@ -181,7 +181,7 @@ Now, enter any public GitHub username (e.g., `octocat`, `torvalds`, or your own:
 Here are a few screenshots showcasing the application's interface and features:
 
 ### Initial Input Page
-![Initial Input Page](images/screenshot-initial-input.png)
+![Initial Input Page](https://github.com/OmprakashSahani/GitHub-Profile-And-Engagement-Analyzer-Web-App/blob/main/images/github-analyzer-demo%201.png)
 *This image displays the clean, coder-themed initial input form.*
 
 ### Analyze Profile Page
