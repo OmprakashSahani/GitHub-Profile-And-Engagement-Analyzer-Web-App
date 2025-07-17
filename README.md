@@ -192,7 +192,7 @@ Here are a few screenshots showcasing the application's interface and features:
 *This screenshot shows the main analysis output for a user's profile.*
 
 ### Repository Deep Dive
-![Repository Deep Dive](images/screenshot-repo-deep-dive.png)
+![Repository Deep Dive](https://github.com/OmprakashSahani/GitHub-Profile-And-Engagement-Analyzer-Web-App/blob/main/images/github-analyzer-demo%204.png)
 *This screenshot highlights the detailed information provided for a specific repository.*
 
 
